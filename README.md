@@ -10,6 +10,9 @@ A simple Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript.
 - It also detects and announces when the game ends in a draw.
 - Use the "Restart Game" button to reset the board and start a new game.
 
+## Demo 
+https://mudassarali4.github.io/Tic-Tac-Toe-Game/
+
 ## Screenshots and Video
 
 - ![Screenshot 2024-06-24 202333](https://github.com/MudassarAli4/Tic-Tac-Toe-Game/assets/96912402/17f877c0-da39-408d-bf78-36918f6efb1e)
