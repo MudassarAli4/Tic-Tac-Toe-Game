@@ -13,7 +13,9 @@ A simple Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript.
 ## Screenshots and Video
 
 - ![Screenshot 2024-06-24 202333](https://github.com/MudassarAli4/Tic-Tac-Toe-Game/assets/96912402/17f877c0-da39-408d-bf78-36918f6efb1e)
-- https://github.com/MudassarAli4/Tic-Tac-Toe-Game/assets/96912402/0f828357-c262-48f3-b4c9-2917a2220fe3
+- https://github.com/MudassarAli4/Tic-Tac-Toe-Game/assets/96912402/f08eefe4-de8d-4611-89a8-8575d44f047e
+
+
 
 ## Technologies Used
 
